@@ -1,0 +1,14 @@
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.exe
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.deps.json
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.runtimeconfig.json
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.runtimeconfig.dev.json
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.dll
+C:\Users\kalay\source\repos\for_loop\for_loop\bin\Debug\netcoreapp3.1\for_loop.pdb
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.csproj.AssemblyReference.cache
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.AssemblyInfoInputs.cache
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.AssemblyInfo.cs
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.csproj.CoreCompileInputs.cache
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.dll
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.pdb
+C:\Users\kalay\source\repos\for_loop\for_loop\obj\Debug\netcoreapp3.1\for_loop.genruntimeconfig.cache
