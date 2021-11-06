@@ -71,6 +71,10 @@ namespace string_methods
             //Substring
             Console.WriteLine(degisken.Substring(4)); //degiskenin 4.indexten baslayarak  tum karakterlerini getirir.
             Console.WriteLine(degisken.Substring(4,6)); //degiskenin 4.indexten baslayarak  6 karakterlerini getirir.
+
+            string deneme = "";
+            deneme = deneme + degisken2;
+            Console.WriteLine(deneme);
         }
     }
 }
