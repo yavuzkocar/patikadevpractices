@@ -1,0 +1,14 @@
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.exe
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.deps.json
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.runtimeconfig.json
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.runtimeconfig.dev.json
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.dll
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\bin\Debug\netcoreapp3.1\recursive methods.pdb
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.csproj.AssemblyReference.cache
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.AssemblyInfoInputs.cache
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.AssemblyInfo.cs
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.csproj.CoreCompileInputs.cache
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.dll
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.pdb
+D:\C# Saves\Patika Dev Practices\recursive methods\recursive methods\obj\Debug\netcoreapp3.1\recursive methods.genruntimeconfig.cache
