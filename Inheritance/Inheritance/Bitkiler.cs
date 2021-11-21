@@ -12,6 +12,11 @@ namespace Inheritance
             Console.WriteLine("Bitkiler fotosentez yapar.");
         }
 
+        public override void UyaranlaraTepki() // <- virtual olarak isaretlenen metodu
+        {                                      // override ile yeniden yaziyoruz.
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler gunese tepki verir.");
+        }
     }
 
     public class TohumluBitkiler : Bitkiler
@@ -22,6 +27,7 @@ namespace Inheritance
             base.Beslen();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
 
         public void TohumlaCogalan()

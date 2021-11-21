@@ -22,7 +22,6 @@ namespace Inheritance
             //marti.Adaptasyon();
             marti.Ucmak();
 
-            Console.WriteLine("******** Kuslar **********");
 
 
         }
