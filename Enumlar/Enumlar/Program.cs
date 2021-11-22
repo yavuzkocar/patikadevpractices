@@ -12,6 +12,9 @@ namespace Enumlar
             Console.WriteLine(Gunler.Pazar);
             Console.WriteLine((int)Gunler.Cumartesi);
 
+            Console.WriteLine("****");
+            Console.WriteLine((Gunler)0); // <- Numerik degerlerle cagirmak icin
+
             Console.WriteLine("*********** Hava Durumu ***************");
 
             int sicaklik = 3;
